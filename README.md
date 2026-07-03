@@ -35,7 +35,6 @@ Library-Management-System/
 # How to Run the Project
 
 1. Clone the respository
-git clone https://github.com/YourUsername/Library-Management-System.git
 
 2. Open the project in VS Code or IntelliJ IDEA.
 
