@@ -13,7 +13,6 @@ class Book {
         this.author = author;
         this.issued = false;
     }
-
     void display() {
         System.out.println("-----------------------------");
         System.out.println("Book ID : " + bookId);
