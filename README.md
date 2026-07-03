@@ -88,7 +88,3 @@ GitHub: https://github.com/Monisha8199
 ![Program Output](assets/program-output.png)
 
 ### Demo Video
-
-A demonstration video of the project is available in the `assets` folder.
-
-- `library-management-demo.mp4`
