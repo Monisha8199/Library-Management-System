@@ -78,4 +78,20 @@ This project helped me practice:
 - Java Swing GUI
 - Book fine calculation
 - File handling for permanent storage
+
 GitHub: https://github.com/Monisha8199
+
+
+** Screenshots**
+
+# Project Structure
+
+![Project Structure](assets/project-structure.png)
+
+# Program Output
+
+![Program Output](assets/program-output.png)
+
+# Demo Video
+
+A demonstration video of the project is available in the `assets` folder.
