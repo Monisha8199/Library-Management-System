@@ -81,14 +81,14 @@ GitHub: https://github.com/Monisha8199
 
 ### Project Structure
 
-![Project Structure](assets/Screenshot 2026-07-03 194411.png)
+![Project Structure](assets/project-structure.png)
 
 ### Program Output
 
-![Program Output](assets/Screenshot 2026-07-03 200213.png)
+![Program Output](assets/program-output.png)
 
 ### Demo Video
 
 A demonstration video of the project is available in the `assets` folder.
 
-- `Screen Recording 2026-07-03 194719.mp4`
+- `library-management-demo.mp4`
