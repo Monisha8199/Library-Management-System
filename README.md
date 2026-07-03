@@ -4,7 +4,7 @@ A simple **Library Management System** developed in **Java** that allows users t
 
 
 
-# Features
+## Features
 
 -  Add new books
 -  Display all books
@@ -15,7 +15,7 @@ A simple **Library Management System** developed in **Java** that allows users t
 
 
 
-# Technologies Used
+## Technologies Used
 
 - Java
 - VS Code / IntelliJ IDEA
@@ -24,7 +24,7 @@ A simple **Library Management System** developed in **Java** that allows users t
 
 
 
-# Project Structure
+## Project Structure
 
 
 Library-Management-System/
@@ -32,7 +32,7 @@ Library-Management-System/
 │── README.md
 
 
-# How to Run the Project
+## How to Run the Project
 
 1. Clone the respository
 
@@ -45,7 +45,7 @@ javac Main.java
 java Main
 
 
-# Sample Output
+## Sample Output
 
 ```
 ===== Library Management System =====
@@ -58,7 +58,7 @@ java Main
 
 Enter your choice:
 
-# Learning Objectives
+## Learning Objectives
 
 This project helped me practice:
 - Java Basics
@@ -70,28 +70,21 @@ This project helped me practice:
 - Git & GitHub
 
 
-
-# Future Improvements
-
-- Store data in a database (MySQL)
-- User login system
-- Java Swing GUI
-- Book fine calculation
-- File handling for permanent storage
-
 GitHub: https://github.com/Monisha8199
 
 
-** Screenshots**
+##Screenshots
 
-# Project Structure
+### Project Structure
 
-![Project Structure](assets/project-structure.png)
+![Project Structure](assets/Screenshot 2026-07-03 194411.png)
 
-# Program Output
+### Program Output
 
-![Program Output](assets/program-output.png)
+![Program Output](assets/Screenshot 2026-07-03 200213.png)
 
-# Demo Video
+### Demo Video
 
 A demonstration video of the project is available in the `assets` folder.
+
+- `Screen Recording 2026-07-03 194719.mp4`
