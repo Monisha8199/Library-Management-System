@@ -70,6 +70,10 @@ This project helped me practice:
 - Git & GitHub
 
 
+## 👩‍💻 Author
+
+**Monisha S**
+
 GitHub: https://github.com/Monisha8199
 
 
